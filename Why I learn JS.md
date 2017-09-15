@@ -17,7 +17,34 @@ I want to say, Hello coding, I come to you again with a great inspiration.
 Hello JS, let's start. 
 And thanks for luck, we can meet such a good course teached by Mr.Xu and thanks for all people work for this course and people talk in the Wechat group, as you inspire me as well.
 
-At last, Mr.Xu, take care. Wish you always all the best.
+At last, Mr.Xu, take care. Wish you all the best.
 
 Sincerely,
-hbl
+Huang_Biling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
