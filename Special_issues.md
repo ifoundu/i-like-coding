@@ -22,7 +22,7 @@ http://blog.csdn.net/ppppfly/article/details/53102756
 
 
 
-issues solved
-- 2017-10-27
-退出NODE环境： control+C 按一次后，收到提醒，再按一次。
-退出NODE才可以查看NVM 和 NODE版本
+# issues solved
+## 2017-10-27
+- 退出NODE环境： control+C 按一次后，收到提醒，再按一次。
+- 退出NODE才可以查看NVM 和 NODE版本
