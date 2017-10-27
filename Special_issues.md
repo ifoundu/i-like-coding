@@ -29,4 +29,10 @@ http://blog.csdn.net/ppppfly/article/details/53102756
 ## 2017-10-27
 - 退出NODE环境： control+C 按一次后，收到提醒，再按一次。
 - 退出NODE才可以查看NVM 和 NODE版本
+
 @何伟
+
+# To do:
+## 回放 HTML 
+## 回放 WEB基础 1+1
+## 要点 WEB
