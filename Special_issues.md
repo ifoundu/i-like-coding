@@ -1,5 +1,5 @@
 # Special issues
-
+## 2017-10-26 - ？
 在本地删除文件后，GIT ADD-A/GIT COMMIT后，GITHUB上不会自动删除。怎么样才可以用命令删除。而且GITHUB上点删除按钮也没有生效。
 
 前提：
@@ -20,7 +20,9 @@ https://segmentfault.com/q/1010000003049019
 http://blog.csdn.net/ppppfly/article/details/53102756
 
 
-
+## 2017-10-27
+- 相对路径
+- 绝对路径
 
 # issues solved
 ## 2017-10-27
