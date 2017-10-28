@@ -32,6 +32,10 @@ http://blog.csdn.net/ppppfly/article/details/53102756
 
 @何伟
 
+# methods to be test
+- git commit -m ""
+'提交当前工作空间的修改内容，命令：git commit -m“修改”，引号里面是提交信息，自己可以填写其他内容'
+
 # To do:
 ### 回放 HTML 
 ### 回放 WEB基础 1+1
