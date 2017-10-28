@@ -33,8 +33,11 @@ http://blog.csdn.net/ppppfly/article/details/53102756
 @何伟
 
 # methods to be test
-- git commit -m ""
+- git commit -m ""  
 ```提交当前工作空间的修改内容，命令：git commit -m“修改”，引号里面是提交信息，自己可以填写其他内容```
+```使用后，成功将本地已删和已加的更新到github上。 ```
+**产生问题?：“编程幼儿园”文件夹在本地改名为“Coding-Kindergarden”后，使用git commit -m"" 时，github上的“编程幼儿园”被删（没有增加Coding-Kindergarden）**
+
 
 # To do:
 ### 回放 HTML 
