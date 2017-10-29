@@ -14,5 +14,5 @@
 
 
 #### 2017-10-29
-视频：[](http://weibo.com/tv/v/FsvvD2GOS?fid=1034:a5e5f8a0f8912fbd05b3c3689b20ce47)
+视频：[从细菌到世界的本质](http://weibo.com/tv/v/FsvvD2GOS?fid=1034:a5e5f8a0f8912fbd05b3c3689b20ce47)
 所以，编程是文科啊
