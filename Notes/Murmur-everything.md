@@ -14,4 +14,4 @@
 
 
 #### 2017-10-29
-视频：[结论：编程是文科啊](http://weibo.com/tv/v/FsvvD2GOS?fid=1034:a5e5f8a0f8912fbd05b3c3689b20ce47)
+视频：[所以，编程是文科啊](http://weibo.com/tv/v/FsvvD2GOS?fid=1034:a5e5f8a0f8912fbd05b3c3689b20ce47)
