@@ -27,4 +27,6 @@
 
 - [手掌心](https://v.qq.com/x/cover/j81mnl5rnwhf2zk/x0024orlwkw.html)
 
+- 为什么是“镜像”mirror，而不是“投影”projection？
+
 
