@@ -25,6 +25,6 @@
 
 - 练习放空
 
-- 手掌心[https://v.qq.com/x/cover/j81mnl5rnwhf2zk/x0024orlwkw.html]
+- [手掌心](https://v.qq.com/x/cover/j81mnl5rnwhf2zk/x0024orlwkw.html)
 
 
