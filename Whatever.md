@@ -3,7 +3,7 @@
 ## 2018-02-11
 
 ### 自问：
-    为什么 fs.readdir 只有两个直接参数：path和callback函数，而把files参数间接地放在callback函数里？ 而fs.writeFile却直接是三个参数，data就是其一，这样callback里只有err一个参数了。  [代码实例](https://github.com/ifoundu/getting-started-with-javascript/tree/master/study/lesson6) 
+#### 为什么 fs.readdir 只有两个直接参数：path和callback函数，而把files参数间接地放在callback函数里？ 而fs.writeFile却直接是三个参数，data就是其一，这样callback里只有err一个参数了。  [代码实例](https://github.com/ifoundu/getting-started-with-javascript/tree/master/study/lesson6) 
 
 ### 自答：  
     `目前认为原因如下：`  
