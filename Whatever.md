@@ -91,7 +91,7 @@ console.log(1);
 function checkFlightSchedule(callback) {
   console.log(2);
   callback('8:00'); //回调
-  return '查完了’;  //立即返回结果，立即函数，同步
+  return '查完了';  //立即返回结果，立即函数，同步
   console.log(3);
 }
 
