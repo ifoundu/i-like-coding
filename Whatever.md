@@ -113,7 +113,7 @@ console.log(8);
 ```
 
 同步函数里的间接返回是把事情做复杂了。 // 再看看。  
-*同步调用的函数，不管通过什么方式给出结果，它一定有一个立即返回结果。即使不指定这样的返回结果，也会有一个undefined。  
+*同步调用的函数，不管通过什么方式给出结果，它一定有一个立即返回结果。即使不指定这样的返回结果，也会有一个undefined。  
 一个函数没有参数，当调用者传一个参数，不会出错，因为没有用到。  
 同步的间接返回是为了引入异步。  
 ### 异步函数
@@ -150,7 +150,7 @@ console.log(8);
   - 函数写法：以下两段代码等价
 ```javascript 
 setTimeout(function() {
-  console.log('今天要做这些菜+foodsList);
+  console.log('今天要做这些菜'+foodsList);
   console.log('大功告成，上菜');
 
   var feast = ['鸡蛋西红柿'+'红烧肉'+'红烧鱼'];
@@ -160,7 +160,7 @@ setTimeout(function() {
 
 ```javascript
 function callback() {
-  console.log('今天要做这些菜+foodsList);
+  console.log('今天要做这些菜'+foodsList);
   console.log('大功告成，上菜');
 
   var feast = ['鸡蛋西红柿'+'红烧肉'+'红烧鱼'];
@@ -176,6 +176,7 @@ _ 打上日志，看执行顺序。一个个函数地去拆解和理解。_
   例子:lesson7:easy_vue.html
 （老师已经讲过，）数据绑定，最终DOM，html里的绑定的item是绑定到Vue的data里的一个变量。看起来毫无关系，但是它们之间建立了一一映射的关系。Vue的for循环极其简单。用Vue怎么做绑定？
 - 先说item是什么？
+
 ```javascript
 <h1> {{ item.title }}</h1>  //一定是在Vue里这个item
 ...... //看视频里的代码。看需不需要整段抄过来。
@@ -185,7 +186,7 @@ var obj = {
     item:'学习JavaScript'或item:{title:'abcd'} //把abcd输入到<h1></h1>
   }
 }
-* Vue基础里的都要看，除了组件（暂时可不看）。  
+// *Vue基础里的都要看，除了组件（暂时可不看）。  
   for循环是列表渲染里的。  
   现在把item:[1,2,3,4]  把item变成一个数组，渲染到节点上去。
   在<div>里复制上Vue文档里for循环代码
@@ -194,6 +195,7 @@ var obj = {
   {{item}}    //老师把message去掉了。
 </li>
 ```
+
 （老师讲的游标指的是数组里的“索引”）  
 JS里的也是类似写法。for(var i = 0...)。item在（in)items/itemList里面，它的处理逻辑是这样，将itemList里的第1个元素放在item里，这样你就可以用它;下次循环，又把第2个元素放到item里面。这种写法的好处是，我不关心游标国，可以很方便直接拿内容。（为什么说比以前方便了？）用老的for循环，还要定义游标，通过游标去访问。简单吧？ （emm,简单？）导致的结果是：  
 (右击VSCode 里的文件名，在finder中显示)，打开html后，
