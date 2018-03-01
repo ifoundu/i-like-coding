@@ -15,9 +15,9 @@ var company = locaitonBase + '新生大学';
 var myLikeColorsList = ['blue', 'green', 'black', 'write'];                             // 数组，元素是字符串
 var myLikeFoods = ['刀削面', '拉面', '牛肉面', '杂酱面', '麻辣面', '烩面', '莜面'];
 
-// 定义一个函数变量buildPerson（表达式函数定义法）                              <划重点：函数变量>
-var buildPerson = function() {                               // 这里用函数定义，而是直接用变量定义（直接用变量定义的输出结果是一样的），
-                                                             // 函数的作用是什么？老师在readem里讲的“将构建person信息封装在函数内”。
+// 定义一个函数变量buildPerson（表达式函数定义法）         <划重点：函数变量>
+var buildPerson = function() {                         // 这里用函数定义，而是直接用变量定义（直接用变量定义的输出结果是一样的），
+                                                       // 函数的作用是什么？老师在readem里讲的“将构建person信息封装在函数内”。
   var xiaoming = {
     name: name,    // 属性格式。数组可理解为：简化的对象。看作：元素是属性名，但没有属性;
                    // (或者）元素是没有属性名的属性;(或者）属性名是游标是索引，属性是元素。最后一个理解最贴切。
