@@ -83,3 +83,21 @@ console.log(personObj);
 console.log(xiaoming);                                          //*
 
 ```
+
+### 输出结果
+```
+ { name: 'xiaoming',
+  config:
+   { age: 18,
+     height: 170,
+     weight: 130.1,
+     isMan: true,
+     student: false,
+     bloodType: 'A',
+     haveGirlFriend: true },
+  like:
+   { myLikeColorsList: [ 'blue', 'green', 'black', 'write' ],
+     myLikeFoods: [ '刀削面', '拉面', '牛肉面', '杂酱面', '麻辣面', '烩面', '莜面' ] },
+  work: { locaitonBase: '北京', company: '北京新生大学' } }  
+  
+```
