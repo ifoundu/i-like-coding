@@ -24,7 +24,7 @@
 
 ## 2018-02-16 ~ 约2018-02-18
 ## 2018-02-16
-#### 第7课 函数
+#### 第9课 函数
 函数三个组成部分  
 [图]  
 这三点最重要。
@@ -104,7 +104,7 @@ function callback(startTime) {
 }
 
 console.log(7);
-var result = checkFlightSchedule(callback); //老板进行“立即调用（return结果）”：你查到后通过callback/回调函数，把结果给我。
+var result = checkFlightSchedule(callback); //老板进行“同步调用（return结果）”：你查到后通过callback/回调输出，把结果给我。
 console.log(result);
 console.log(8);
 
