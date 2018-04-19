@@ -18,10 +18,11 @@ https://segmentfault.com/a/1190000007748862 老徐
 
 ### - 删除文件
 
-- 删除命令
+- 删除命令  
     github上：
-    - git rm +文件名 : `成功会显示在下一行：rm +'文件名'`
+    - git rm +文件名 : `成功会显示在下一行：rm +'文件名'`  
     本地：
     - rm +文件名
 - git commit -m""
 - git push
+
