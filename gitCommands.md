@@ -18,11 +18,16 @@ https://segmentfault.com/a/1190000007748862 老徐
 
 ### - 删除文件
 
-- 删除命令  
-    github上：
-    - git rm +文件名 : `成功会显示在下一行：rm +'文件名'`  
-    本地：
-    - rm +文件名
+- 删除命令    
+  - git rm +文件名 `github上: 成功会显示在下一行：rm +'文件名'`  
+  - rm +文件名 `本地`
 - git commit -m""
+- git push
+
+### - 多个文件一起提交
+- git add 文件夹 [可以是整个子文件夹]
+- git add 文件1  [同个文件夹里的一个文件]
+- git add 文件n
+- git commit -m ""
 - git push
 
