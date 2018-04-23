@@ -24,7 +24,7 @@ https://segmentfault.com/a/1190000007748862 老徐
 - git commit -m""
 - git push
 
-### - 多个文件一起提交
+### - 多个文件一起提交:同一级文件夹 才成功
 - git add 文件夹 [可以是整个子文件夹]
 - git add 文件1  [同个文件夹里的一个文件]
 - git add 文件n
