@@ -31,3 +31,13 @@ https://segmentfault.com/a/1190000007748862 老徐
 - git commit -m ""
 - git push
 
+### 路径有空格
+cd ""
+git add ""
+### 子路径的文件
+可直接在文件名前加上路径，进行 git add
+
+
+### 文件名区分大小写
+
+ 
