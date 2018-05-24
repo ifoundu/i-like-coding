@@ -40,4 +40,19 @@ git add ""
 
 ### 文件名区分大小写
 
+### 撤销 git add
+git reset 文件/文件夹
+
+### 本地建立仓库后，推送到 github
+前提：已经在本地创建文件夹和文件  
+- 在github上创建同名项目
+- 进入本地文件夹
+- git init // 在文件夹中生成 .git文件
+- git add -A
+- git commit -m "" //这两步与平常操作相同
+- git remote add origin https://github.com/ifoundu/JS-headFirst.git // 项目地址
+- git push -u origin master // 成功  
+
+说明：github上的提示，在创建新项目后显示的。一次操作成功。
+
  
