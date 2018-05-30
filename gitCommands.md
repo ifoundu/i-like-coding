@@ -55,4 +55,13 @@ git reset 文件/文件夹
 
 说明：github上的提示，在创建新项目后显示的。一次操作成功。
 
+### 修改 commit 注释
+- git commit --amend
+> 进入 vi 编辑器修改
+- ESC + shift ：进入 ex mode
+- qw 保存退出 或 qw! 强制保存退出 
+- git log 查看日志中的注释是否已改好
+- git push 改好后推上github
+
+
  
